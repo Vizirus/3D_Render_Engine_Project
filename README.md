@@ -1,10 +1,3 @@
-# 3D Render Engine Project 
-A quite simple, but ambitious project of 3D render engine. 
-Intended to learn 3D graphics, practice C# and Math skills, learn about OpenGL, Vulcan.
-
-## Project includes:
- - Main fork with project description, reports and tutorials
- - OpenGL test project (in progress)
- - Vulkan test project (in progress)
- - The main 3D rendering engine (in progress)
-
+# OpenGL Test project
+This part of the application is a study project.
+It`s meant to clarify the OpenGL Framework for C#, how to use it and to understand essentials of 3D rendering
