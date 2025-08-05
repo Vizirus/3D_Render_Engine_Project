@@ -4,7 +4,7 @@ Intended to learn 3D graphics, practice C# and Math skills, learn about OpenGL, 
 
 ## Project includes:
  - Main fork with project description, reports and tutorials
- - Fork for OpenGL test project (in progress)
- - Fork for Vulkan test project (in progress)
- - Fork for the main 3D rendering engine (in progress)
+ - OpenGL test project (in progress)
+ - Vulkan test project (in progress)
+ - The main 3D rendering engine (in progress)
 
